@@ -57,7 +57,7 @@ body {
     border-radius: 0 32px 32px 0;
 }
 
-h2 {
+h1 {
     font-size: 2.4rem;
     color: hsl(241, 100%, 89%);
     margin-bottom: 3.5rem;
@@ -94,7 +94,7 @@ h2 {
     font-weight: 700;
 }
 
-h3 {
+h2 {
     font-size: 3.2rem;
     color: hsl(0, 0%, 100%);
     font-weight: 800;
@@ -121,7 +121,7 @@ h3 {
     align-items: baseline;
 }
 
-h4 {
+h3 {
     font-size: 2.4rem;
     font-weight: 700;
     margin-bottom: 2.8rem;
@@ -167,7 +167,7 @@ h4 {
     background-color: hsla(234, 85%, 45%, 5%);
 }
 
-h6 {
+h4 {
     font-size: 1.8rem;
     font-weight: 500;
     padding-left: 1.2rem;
@@ -227,7 +227,7 @@ button:hover {
         padding: 2.4rem 5.7rem;
     }
 
-    h2 {
+    h1 {
         font-size: 1.8rem;
         margin-bottom: 2.4rem;
     }
@@ -246,7 +246,7 @@ button:hover {
         font-size: 1.6rem;
     }
 
-    h3 {
+    h2 {
         font-size: 2.4rem;
         margin-bottom: 0.8rem;
     }
@@ -262,7 +262,7 @@ button:hover {
         padding-top: 2.4rem;
     }
 
-    h4 {
+    h3 {
         font-size: 1.8rem;
         font-weight: 700;
         margin-bottom: 2.4rem;
@@ -278,7 +278,7 @@ button:hover {
         font-size: 1.6rem;
     }
 
-    h6 {
+    h4 {
         font-size: 1.6rem;
     }
     

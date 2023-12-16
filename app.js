@@ -5,6 +5,7 @@ fetch("data.json")
       const currentValuation = document.getElementById(`valuation${index + 1}`);
 
       currentValuation.querySelector(".valuation-icon").src = valuation.icon;
+      currentValuation.querySelector(".valuation-icon").alt = valuation.category;
       currentValuation.querySelector(".category").textContent =
         valuation.category;
       currentValuation.querySelector(".final-score").textContent =
